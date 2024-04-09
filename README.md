@@ -1,5 +1,8 @@
 # Equatorial-Guinea-Geospatial-Analysis-and-Visualization
-This code snippet demonstrates the geospatial analysis and visualization of Equatorial Guinea using Google Earth Engine. It includes layers for slope analysis, gross primary productivity (GPP), normalized burn ratio thermal (NBRT), and normalized difference vegetation index (NDVI).
+
+---> RUN CODE ON GEE
+
+This code snippet demonstrates the geospatial analysis and visualization of Equatorial Guinea using Google Earth Engine (GEE). It includes layers for slope analysis, gross primary productivity (GPP), normalized burn ratio thermal (NBRT), and normalized difference vegetation index (NDVI).
 
 - Gross Primary Productivity (GPP): GPP represents the rate at which solar energy is converted into organic matter through photosynthesis by plants. It is an important measure of ecosystem productivity and can indicate the health and vitality of vegetation.
   - Color codes: GPP values are represented by a palette ranging from low (red) to high (green) productivity, with shades of yellow indicating intermediate levels.
